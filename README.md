@@ -13,14 +13,16 @@ While any of their health is greater than zero.
 Let, player attack to Enemy and enemy will defense, 
 and Enemy attack to player and player will defense.***
 
-
+  --Interface
 |   IceAttack   |
 | ------------- |
 | ~ Character IceAttack(Character c)     | 
 
+  --Interface
 |   FireAttack   |
 | ------------- |
 | ~ Character IceAttack(Character c)     | 
+
 
 
 | Enemy       |                                                          
