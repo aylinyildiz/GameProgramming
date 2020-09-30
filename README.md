@@ -2,7 +2,7 @@
 Game programming with _Java_  
 
 
-![alt text](https://img-a.udemycdn.com/course/750x422/2669808_fcbe.jpg)
+![alt text](https://www.jrebel.com/sites/rebel/files/image/2020-05/image-blog-revel-top-java-tools.jpg)
 
 
 
